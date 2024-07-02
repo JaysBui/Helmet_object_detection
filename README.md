@@ -1,18 +1,21 @@
-# Helmet_object_detection
----
-# 1. Foreword
-Welcome to one of my very first repositories. 
-As you may seen a lot of project regarding object detection in varing fields, this is very crucial in construction or safety in construction which helps on detecting who are not away with helmet!
-This repository conducts in collab google which contain only an ipynb file which you may not find it perplexed!
+# Helmet Object Detection
 
----
-# 2. Usage
+## 1. Foreword
 
-- Remmember accessing on [google colab]{https://colab.research.google.com}
-- Clonning my repository:
-> !git clone https://github.com/JaysBui/Helmet_object_detection.git
-> cd Helmet_object_detection
-- Ensure turning on the "GPU" instead of "CPU" (runtime > change runetime type > T4 GPU)
-- Proceeding every steps in the file 'Helmet_object_detection.ipynb'
-- At the Step 4, you may find your own image related on the project and put it in the variable 'IMAGE_URL'
+Welcome to one of my very first repositories. As you may have seen, there are a lot of projects regarding object detection in various fields. This is very crucial in construction or safety in construction, helping detect who is not wearing a helmet!
 
+This repository is hosted on Google Colab and contains only a single Jupyter notebook file, which you may find easy to use!
+
+## 2. Usage
+
+1. Access [Google Colab](https://colab.research.google.com).
+2. Clone my repository:
+    ```bash
+    !git clone https://github.com/JaysBui/Helmet_object_detection.git
+    cd Helmet_object_detection
+    ```
+3. Ensure that you turn on the "GPU" instead of the "CPU" (Runtime > Change runtime type > GPU).
+4. Proceed with every step in the 'Helmet_object_detection.ipynb' file.
+5. At Step 4, you can use your own image related to the project by setting the `IMAGE_URL` variable.
+
+Feel free to reach out if you have any questions or need further assistance!
