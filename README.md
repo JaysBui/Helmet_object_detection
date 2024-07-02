@@ -2,9 +2,9 @@
 
 ## 1. Foreword
 
-Welcome to one of my very first repositories. As you may have seen, there are a lot of projects regarding object detection in various fields. This is very crucial in construction or safety in construction, helping detect who is not wearing a helmet!
+Welcome to one of my very first repositories. As you may have seen, there are a lot of projects regarding object detection in various fields. This is very crucial safety in construction, helping detect who is not complying with construction rules, especially wearing a headgear!
 
-This repository is hosted on Google Colab and contains only a single Jupyter notebook file, which you may find easy to use!
+This repository is hosted on Google Colab and contains only a Jupyter notebook file, which you may find easy to use!
 
 ## 2. Usage
 
